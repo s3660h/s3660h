@@ -160,6 +160,15 @@ flowchart LR
 
 🔒 *Client systems stay private by design — reliability > vanity repos.*
 
+<div align="center">
+  <a href="https://github.com/s3660h/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=s3660h&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C4DFF&text_color=E6EDF3" alt="portfolio repo card"/>
+  </a>
+  <a href="https://github.com/s3660h/s3660h">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=s3660h&repo=s3660h&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C4DFF&text_color=E6EDF3" alt="profile repo card"/>
+  </a>
+</div>
+
 ---
 
 ## 📈 Impact Style Metrics
@@ -259,6 +268,9 @@ flowchart LR
 
 <a href="https://github.com/s3660h">
   <img src="https://img.shields.io/badge/Follow-@s3660h-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+</a>
+<a href="https://www.linkedin.com/in/mahdi-khakshour-4340a020b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Khakshour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/s3660h/s3660h/issues/new">
   <img src="https://img.shields.io/badge/Start%20a%20Conversation-Issues-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
