@@ -30,6 +30,11 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/s3660h?label=Stars&style=social" alt="stars"/>
 
+<br/><br/>
+
+### 🌟 Public Showcase
+[![Portfolio](https://img.shields.io/badge/📂%20Open%20Portfolio-projects%20%26%20case%20studies-7C4DFF?style=for-the-badge)](https://github.com/s3660h/portfolio)
+
 </div>
 
 ---
@@ -196,6 +201,12 @@ flowchart LR
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s3660h&bg_color=0D1117&color=00D4FF&line=7C4DFF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/s3660h/s3660h/main/github-metrics.svg" alt="GitHub metrics"/>
 </div>
 
 ---
