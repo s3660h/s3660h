@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Mahdi Khakshour banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="45%" stop-color="#0B1224"/>
+      <stop offset="100%" stop-color="#161042"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="50%" stop-color="#7C4DFF"/>
+      <stop offset="100%" stop-color="#FF4D9D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#7C4DFF" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7C4DFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="920" cy="70" r="120" fill="url(#glow)"/>
+  <circle cx="200" cy="260" r="90" fill="#00D4FF" opacity="0.12" filter="url(#soft)"/>
+  <g opacity="0.25" stroke="#00D4FF" stroke-width="1">
+    <path d="M0 70 H1200"/><path d="M0 140 H1200"/><path d="M0 210 H1200"/><path d="M0 280 H1200"/>
+    <path d="M120 0 V320"/><path d="M300 0 V320"/><path d="M480 0 V320"/><path d="M660 0 V320"/><path d="M840 0 V320"/><path d="M1020 0 V320"/>
+  </g>
+  <text x="72" y="108" font-family="Segoe UI, Ubuntu, sans-serif" font-size="28" fill="#8BE9FD" letter-spacing="4">FULL-STACK · ERP · INTEGRATIONS</text>
+  <text x="68" y="175" font-family="Segoe UI, Ubuntu, sans-serif" font-size="64" font-weight="700" fill="url(#neon)">Mahdi Khakshour</text>
+  <text x="72" y="225" font-family="JetBrains Mono, Consolas, monospace" font-size="24" fill="#E6EDF3">@s3660h · Building systems that actually ship 🚀</text>
+  <g transform="translate(72,255)">
+    <rect rx="16" width="170" height="36" fill="#111827" stroke="#00D4FF"/>
+    <text x="85" y="24" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="15" fill="#00D4FF">🐘 PHP / Laravel</text>
+    <rect x="186" rx="16" width="180" height="36" fill="#111827" stroke="#7C4DFF"/>
+    <text x="276" y="24" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="15" fill="#C4B5FD">🛒 Woo + Sepidar</text>
+    <rect x="382" rx="16" width="150" height="36" fill="#111827" stroke="#FF4D9D"/>
+    <text x="457" y="24" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="15" fill="#FF9ECF">🐳 Docker Ops</text>
+  </g>
+</svg>

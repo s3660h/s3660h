@@ -1,137 +1,268 @@
-<!-- ============================================================
-  Profile README — Mahdi Khakshour (@s3660h)
-  ============================================================ -->
+<!-- =========================================================
+  ⚡ Mahdi Khakshour (@s3660h) — Ultra Profile README
+  ========================================================= -->
+
+<a href="https://github.com/s3660h">
+  <img src="https://raw.githubusercontent.com/s3660h/s3660h/main/assets/header.svg" alt="Mahdi Khakshour — Full-Stack Developer" width="100%"/>
+</a>
+
+<br/>
 
 <div align="center">
 
-# 👋 سلام! من مهدی خاکشور هستم
+# 🌌 مهدی خاکشور · Mahdi Khakshour
 
-### ✨ Mahdi Khakshour · Full-Stack Developer
+### 🚀 Full-Stack Engineer · ERP Architect · Integration Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Building+ERP+%26+business+systems;PHP+%C2%B7+Laravel+%C2%B7+WooCommerce;Clean+code.+Real+deployments." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=820&height=55&lines=%F0%9F%9A%80+Shipping+real+business+systems;+%F0%9F%90%9B+PHP+%C2%B7+Laravel+12+%C2%B7+MySQL+%C2%B7+SQL+Server;+%F0%9F%94%97+Sepidar+%E2%86%94+WooCommerce+bridges;+%F0%9F%90%B3+Docker+%C2%B7+GHCR+%C2%B7+Auto-update+on+client+servers" alt="Typing animation" />
 
-[![GitHub followers](https://img.shields.io/github/followers/s3660h?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/s3660h)
-[![Hireable](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/s3660h)
-[![Location](https://img.shields.io/badge/Based%20in-Iran%20🇮🇷-orange?style=for-the-badge)](https://github.com/s3660h)
-[![Profile views](https://komarev.com/ghpvc/?username=s3660h&style=for-the-badge&color=blueviolet)](https://github.com/s3660h)
+<br/>
+
+<p>
+  <a href="https://github.com/s3660h"><img src="https://img.shields.io/badge/GitHub-s3660h-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/s3660h"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to work"/></a>
+  <a href="https://github.com/s3660h"><img src="https://img.shields.io/badge/Focus-ERP%20%26%20Integrations-7C4DFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Focus"/></a>
+  <a href="https://github.com/s3660h"><img src="https://img.shields.io/badge/Based%20in-Iran%20🇮🇷-FF6D00?style=for-the-badge" alt="Iran"/></a>
+  <a href="https://github.com/s3660h"><img src="https://komarev.com/ghpvc/?username=s3660h&label=Profile%20Views&color=00BCD4&style=for-the-badge" alt="Profile views"/></a>
+</p>
+
+<img src="https://img.shields.io/github/followers/s3660h?label=Followers&style=social" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/s3660h?label=Stars&style=social" alt="stars"/>
 
 </div>
 
 ---
 
-## 🚀 درباره من
-
-من روی **سیستم‌های واقعی کسب‌وکار** کار می‌کنم — نه فقط دمو.
-
-- 🏢 طراحی و توسعه **ERP** با Laravel (منابع انسانی، حقوق، حضور و غیاب، فروش، گردش‌کار، نامه، تسک، …)
-- 🔗 یکپارچه‌سازی **سپیدار ↔ WooCommerce** (کاتالوگ، موجودی، سفارش، فاکتور)
-- 🐳 استقرار با **Docker / GHCR / Watchtower** و آپدیت خودکار روی سرور مشتری
-- 🪟 تجربه عملی روی **Windows Server** و محیط‌های سازمانی
-- 🎯 تمرکز روی کدی که **نصب، پایدار و قابل نگهداری** باشد
-
-> 💡 *اگر سیستم‌ت باید هر روز بدون دردسر کار کند، درست آمده‌ای.*
-
----
-
-## 🛠️ Tech Stack
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🎨 Frontend
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GHCR](https://img.shields.io/badge/GHCR-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🛒 Integrations
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Sepidar](https://img.shields.io/badge/Sepidar%20ERP-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
-![ZKTeco](https://img.shields.io/badge/ZKTeco%20Attendance-111111?style=for-the-badge&logo=fingerprint&logoColor=white)
-
----
-
-## 💼 What I Build
-
-| 🧩 Project area | 🔥 Focus |
-|---|---|
-| **Formatic ERP** | Laravel ERP — HR, payroll, attendance, sales, workflow, letters, tasks, SMS & telephony |
-| **Sepidar ↔ Woo** | Catalog/price/stock sync + order → invoice bridge for real stores |
-| **Deploy & Ops** | Docker images, auto-update on customer servers, Windows installers & scheduled sync |
-| **Business APIs** | Reliable integrations between accounting, e-commerce, and internal tools |
-
-🔒 *بیشتر پروژه‌های مشتری به‌صورت خصوصی نگهداری می‌شوند — کیفیت مهم‌تر از نمایش عمومی است.*
-
----
-
-## 📊 GitHub Stats
+## 💥 Superpowers
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=s3660h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3660h&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s3660h&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=s3660h&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+| 🏆 Superpower | ⚡ What it means in practice |
+|:---|:---|
+| 🏢 **ERP Builder** | HR · Payroll · Attendance · Sales · Workflow · Letters · Tasks · SMS · Telephony |
+| 🔗 **Integration Ninja** | Sepidar SQL Server ↔ WooCommerce catalog, stock, orders & invoices |
+| 🐳 **Deploy Beast** | Docker · GHCR · Watchtower · Windows Server installers · scheduled auto-updates |
+| 🛡️ **Production Mindset** | Systems that run on **customer servers**, not just localhost demos |
+| 🧩 **Full-Stack PHP** | Laravel 12 · Blade · Vite · REST APIs · MySQL · SQL Server |
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🧠 About Me
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  👨‍💻  Name      : Mahdi Khakshour (@s3660h)                   ║
+║  🎯  Role      : Full-Stack / ERP / Integration Engineer     ║
+║  🌍  Location  : Iran 🇮🇷                                     ║
+║  💼  Status    : Open to serious projects & collaborations   ║
+║  ☕  Fuel      : Clean architecture + real customer feedback ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+من سیستم‌هایی می‌سازم که **کسب‌وکار روی آن‌ها می‌چرخد**:
+
+- 🔥 ERP سازمانی با ماژول‌های واقعی روزمره
+- 🔁 پل‌های پایدار بین حسابداری، فروشگاه آنلاین و ابزارهای داخلی
+- 📦 بسته‌بندی، نصب، آپدیت و نگهداری روی سرور مشتری
+- 🎯 کیفیت بالاتر از نمایش عمومی — خیلی از کارها private می‌مانند
+
+> 💬 **شعار من:** کد تمیز · دیپلوی مطمئن · مشتری آسوده
+
+---
+
+## 🛠️ Arsenal · Tech Stack
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/s3660h/s3660h/output/github-contribution-grid-snake-dark.svg)
+### 💎 Core Stack
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,bootstrap,vite,docker,githubactions,git,linux,windows,wordpress&perline=12" alt="Skill icons"/>
+</a>
+
+<br/><br/>
+
+| Layer | Technologies |
+|:---|:---|
+| ⚙️ **Backend** | `PHP 8.2+` · `Laravel 12` · `REST API` · `Queues` · `Auth` · `Eloquent` |
+| 🗄️ **Databases** | `MySQL` · `Microsoft SQL Server` · migrations · reporting queries |
+| 🎨 **Frontend** | `Blade` · `JavaScript` · `Bootstrap` · `Vite` · `Chart.js` · `ECharts` |
+| 🐳 **DevOps** | `Docker` · `GHCR` · `GitHub Actions` · `Watchtower` · `CI/CD` |
+| 🛒 **Commerce** | `WooCommerce REST` · webhooks · catalog & order sync |
+| 🧾 **ERP / Org** | Sepidar bridges · ZKTeco attendance · SMS · telephony hooks |
+| 🪟 **Ops Reality** | Windows Server · scheduled tasks · silent auto-update · installer scripts |
 
 </div>
 
 ---
 
-## 🎯 Currently Focusing On
-
-- ⚡ پایدارتر کردن دیپلوی و آپدیت خودکار روی سرورهای مشتری
-- 🧠 عمیق‌تر کردن ماژول‌های ERP (حقوق، حضور، فروش، گردش‌کار)
-- 🔌 یکپارچه‌سازی‌های تمیزتر بین سیستم‌های سازمانی و فروش آنلاین
-- 📦 استاندارد کردن Docker + CI/CD برای پروژه‌های PHP
-
----
-
-## 🤝 Let's Connect
+## 🏗️ Architecture Snapshot
 
 <div align="center">
 
-### 💬 آماده‌ام برای همکاری روی پروژه‌های جدی
+```mermaid
+flowchart LR
+  A[🛒 WooCommerce Store] -->|Webhook / API| B[🌉 Sync Bridge]
+  C[🧾 Sepidar SQL Server] <-->|Catalog · Stock · Invoice| B
+  B --> D[🐳 Docker / Windows Service]
+  D --> E[📡 Customer Server]
+  F[🏢 Formatic ERP Laravel] --> G[👥 HR · Payroll · Attendance]
+  F --> H[💼 Sales · Workflow · Letters]
+  F --> I[🔔 SMS · Chat · Devices]
+  style B fill:#00D4FF,stroke:#111,color:#111
+  style F fill:#7C4DFF,stroke:#111,color:#fff
+  style E fill:#00C853,stroke:#111,color:#111
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-s3660h-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s3660h)
-[![Open an Issue](https://img.shields.io/badge/Say%20Hi-Open%20an%20Issue-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s3660h/s3660h/issues)
+</div>
+
+---
+
+## 💼 Flagship Work
+
+<div align="center">
+
+### 🏢 Formatic ERP
+**Laravel 12 enterprise platform**
+
+| 📦 Module | ✨ Capability |
+|:---|:---|
+| 👥 Personnel & HR | staff profiles, roles, organizational ops |
+| ⏱️ Attendance | ZKTeco devices, shifts, corrections, holidays |
+| 💰 Payroll | salary flows & financial requests |
+| 📈 Sales | sales workflows & reporting |
+| 🔁 Workflow | approvals, requests, process routing |
+| ✉️ Letters | templates & formal correspondence |
+| ✅ Tasks | operational task tracking |
+| 💬 Comms | chat, SMS, notifications, telephony |
 
 <br/>
 
-⭐️ *از ستاره دادن به پروژه‌ها و فالو کردن پروفایل حمایت کن!* ⭐️
+### 🔗 Sepidar ↔ WooCommerce Sync
+**Production bridge for real stores**
+
+| ⚡ Flow | 🚀 Result |
+|:---|:---|
+| 📦 Catalog sync | prices & stock from Sepidar → Woo |
+| 🧾 Order bridge | store orders → Sepidar pre-invoice / invoice |
+| 🪟 Windows mode | no-Docker installers + scheduled `git pull` |
+| 🐳 Docker mode | GHCR image + Watchtower auto-update |
+| 🔐 Secure ops | tokens, env configs, customer-ready deploy kits |
+
+</div>
+
+🔒 *Client systems stay private by design — reliability > vanity repos.*
+
+---
+
+## 📈 Impact Style Metrics
+
+<div align="center">
+
+| 🎯 Focus | 💪 How I deliver |
+|:---|:---|
+| ⏱️ Time-to-update | auto-update pipelines for client machines |
+| 🛡️ Stability | ff-only pulls, health-minded deploy scripts |
+| 🧩 Integration depth | SQL Server + Woo REST + webhooks |
+| 📦 Ship readiness | docs, `.env.example`, installers, runbooks |
+| 🧠 Maintainability | clear modules, boring reliable code |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s3660h&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C4DFF&text_color=E6EDF3" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3660h&layout=compact&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3" alt="Top langs"/>
+</div>
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s3660h&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=7C4DFF&currStreakLabel=00D4FF" alt="Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s3660h&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s3660h&bg_color=0D1117&color=00D4FF&line=7C4DFF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s3660h/s3660h/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s3660h/s3660h/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/s3660h/s3660h/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 🧭 Current Mission Board
+
+```diff
++ ⚡ Hardening auto-update & deploy reliability on client servers
++ 🏢 Expanding Formatic ERP modules (payroll / attendance / sales / workflow)
++ 🔌 Cleaner Sepidar ↔ WooCommerce sync edge-cases
++ 🐳 Stronger Docker + GHCR + Actions pipelines for PHP products
++ 📚 Better operator docs for Windows & Docker installs
+```
+
+---
+
+## 🧬 How I Work
+
+<div align="center">
+
+| 🧠 Principle | 📌 Meaning |
+|:---|:---|
+| 🎯 **Ship real** | If it can't run on the client's machine, it's not done |
+| 🧼 **Keep it boring** | Predictable code > clever tricks |
+| 🔁 **Automate updates** | Humans shouldn't babysit routine deploys |
+| 🔐 **Respect privacy** | Customer systems stay private |
+| 📝 **Document ops** | Install / update / recovery must be clear |
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Serious
+
+<div align="center">
+
+### 💬 آماده همکاری روی پروژه‌های ERP، یکپارچه‌سازی و دیپلوی سازمانی
+
+<a href="https://github.com/s3660h">
+  <img src="https://img.shields.io/badge/Follow-@s3660h-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+</a>
+<a href="https://github.com/s3660h/s3660h/issues/new">
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation-Issues-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+</a>
+<a href="https://github.com/s3660h?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-7C4DFF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+</a>
+
+<br/><br/>
+
+⭐️ **اگر این پروفایل برات جالب بود، Follow کن و ستاره بده!** ⭐️
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
 
 </div>
 
@@ -139,8 +270,14 @@
 
 <div align="center">
 
-### 🔥 «کد خوب، سیستم پایدار، مشتری راضی»
+### 🔥 «کد خوب · سیستم پایدار · مشتری راضی»
 
-**Mahdi Khakshour** · `@s3660h` · Made with ❤️ & ☕ in Iran 🇮🇷
+<img src="https://raw.githubusercontent.com/s3660h/s3660h/main/assets/footer.svg" alt="footer" width="100%"/>
+
+**Mahdi Khakshour** · `@s3660h` · Built with ❤️ ☕ 🚀 from Iran 🇮🇷
+
+<br/>
+
+![Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
